@@ -1,0 +1,7 @@
+C:\Users\Kendall\bootcamp_c_sharp\c-car-lot\c-car-lot\bin\Debug\c-car-lot.exe.config
+C:\Users\Kendall\bootcamp_c_sharp\c-car-lot\c-car-lot\bin\Debug\c-car-lot.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-car-lot\c-car-lot\bin\Debug\c-car-lot.pdb
+C:\Users\Kendall\bootcamp_c_sharp\c-car-lot\c-car-lot\obj\Debug\c-car-lot.csproj.AssemblyReference.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-car-lot\c-car-lot\obj\Debug\c-car-lot.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-car-lot\c-car-lot\obj\Debug\c-car-lot.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-car-lot\c-car-lot\obj\Debug\c-car-lot.pdb
